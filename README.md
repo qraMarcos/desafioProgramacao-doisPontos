@@ -1,4 +1,4 @@
-# DESAFIOPROGRAMACAO-DOISPONTOS
+# DesafioProgramacao-DoisPontos
 
 Projeto desenvolvido em JavaScript para resolver um desafio acadêmico de validação de acesso de usuários, com implementação da função de login e cobertura de testes automatizados para os cenários exigidos no enunciado fornecido pelo usuário.[1]
 
